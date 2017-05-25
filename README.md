@@ -3,17 +3,17 @@
 All attendees, speakers, sponsors and volunteers at our meetup are required to agree with the following code of conduct. Organisers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everybody.
 
 
-##TL;DR:
+## TL;DR:
 
 ***Be excellent with each other*** (a.k.a. "Don’t be a Jerk")
 
-##The Quick Version
+## The Quick Version
 
 Our meetup is dedicated to providing a harassment-free experience for everyone, regardless of gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion (or lack thereof), or technology choices.
 
 We do not tolerate harassment of participants in any form. Sexual language and imagery is not appropriate for any meetup venue, including talks, workshops, parties, Twitter and other online media. Participants violating these rules may be sanctioned or expelled from the meetup without a refund at the discretion of the organisers.
 
-##The Less Quick Version
+## The Less Quick Version
 
 Harassment includes offensive verbal comments related to gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, race, ethnicity, religion, technology choices, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, sustained disruption of talks or other events, inappropriate physical contact, and unwelcome sexual attention.
 
@@ -29,13 +29,13 @@ The staff will be happy to help participants contact hotel/venue security or loc
 
 We expect participants to follow these rules during the meetup and and the meetup-related social events.
 
-##Reporting violations
+## Reporting violations
 
-We take our code of conduct seriously! Please report any potential violations to one of the organizers in person or send an email to <mailto:webdeldn@gmail.com>.
+We take our code of conduct seriously! Please report any potential violations to one of the organizers in person or send an email to [webdeldn@gmail.com](mailto:webdeldn@gmail.com).
 
 All complaints will be investigated immediately. If the person reporting the incident wishes, the organizers will provide updates how how the complaint is being dealt with.
 
-##License and attribution
+## License and attribution
 
 As modified from [confcodeofconduct.com](confcodeofconduct.com)
 
